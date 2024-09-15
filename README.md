@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Khoi Quoc Le and I'm studying at UIT
+- 👋 Hi, I’m Khoi Quoc Le, studying at UIT and my major is Cyber Security 
 
 <!---
 khoiquocle/khoiquocle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
