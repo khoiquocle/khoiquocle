@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khoi Quoc Le</h1>
-<h3 align="center">A guy who passionate in web pentest</h3>
+<h3 align="center">A guy who passionate in Security</h3>
 <p></p>- 📫 Currently learning Cyber Security at University of Information Technology VNU-HCM</p>
 - 📫 How to reach me <a href="mailto:23520769@gm.uit.edu.vn">E-mail</a>
 
