@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khoi Quoc Le</h1>
 <h3 align="center">A guy who passionate in Cyber Security</h3>
-<p></p>- 🌱 Currently learning Cyber Security at University of Information Technology VNU-HCM</p>
+<p></p>
+![open_book](https://github.com/khoiquocle/khoiquocle/blob/main/assets/open-book.gif)  Currently learning Cyber Security at University of Information Technology VNU-HCM</p>
 - 📫 How to reach me: <a href="mailto:23520769@gm.uit.edu.vn">23520769@gm.uit.edu.vn</a>
 
 <h3 align="left">Connect with me:</h3>
